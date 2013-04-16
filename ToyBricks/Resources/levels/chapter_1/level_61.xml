@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<models>
+<model indexX="-1"  indexY="12"  backIndex="5"  transform="2">0000000000000110001100010
+</model>
+<model indexX="1"  indexY="12"  backIndex="18"  transform="2">0000000000000000000100001
+</model>
+<model indexX="7"  indexY="12"  backIndex="19"  transform="1">0000000000000000100011000
+</model>
+<model indexX="6"  indexY="12"  backIndex="12"  transform="2">0000000001000010000100001
+</model>
+<model indexX="9"  indexY="13"  backIndex="14"  transform="3">0000100001000110000000000
+</model>
+</models>
+<targetArea indexX="6"  indexY="6">
+<row>6</row>
+<column>3</column>
+</targetArea>
+</root>
